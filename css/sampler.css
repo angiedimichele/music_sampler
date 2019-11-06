@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Barlow Condensed', 'Rasa', sans-serif;
+  background-color: #D9E3DA;
+}
+
+.his-story {
+padding: 1rem;
+padding-bottom: 1rem;
+margin: auto;
+max-width: 600px;
+background-color: #A7BEA9;
+}
+
+#elliott_smith {
+  max-width: 100%;
+  text-align: center;
+  display: block;
+  margin-top: 1rem;
+  margin: auto;
+  border: 8px solid #FFFFFF;
+}
+
+.caption {
+text-align: center;
+margin: auto;
+max-width: 600px;
+padding-top: 1rem;
+padding-bottom: 1rem;
+}
+
+h1 {
+text-align: center;
+display: block;
+}
+
+.albums {
+padding-top: 2rem;
+padding-bottom: 2rem;
+margin: auto;
+max-width: 100%;
+}
+
+.audioplayer {
+margin: auto;
+padding-top: 1rem;
+padding-bottom: .5rem;
+display: block;
+}
+
+.song-title {
+  display: block;
+  text-align: center;
+}
+
+footer {
+background-color: #FFFFFF;
+margin: auto;
+padding: 1rem;
+}
